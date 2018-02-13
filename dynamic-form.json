@@ -1,0 +1,8 @@
+{
+    "program": "foo",
+    "args": {
+        "name": "test",
+        "dir": "/tmp",
+        "output": "tmp/it.txt"
+    }
+}

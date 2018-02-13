@@ -1,0 +1,32 @@
+{
+  "name": "blessed-examples",
+  "version": "0.0.1",
+  "description": " Several examples for blessed: a curses-like library for node.js. ",
+  "scripts": {
+    "start": "cat README.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvmonteiro/blessed-examples.git"
+  },
+  "keywords": [
+    "blessed",
+    "blessed-contrib",
+    "ncurses",
+    "terminal-ui",
+    "nodejs"
+  ],
+  "author": "blessed-contrib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hvmonteiro/blessed-examples/issues"
+  },
+  "homepage": "https://github.com/hvmonteiro/blessed-examples#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security"
+  }
+}
