@@ -25,7 +25,7 @@
   "homepage": "https://github.com/hvmonteiro/blessed-examples#readme",
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.8.5",
+    "blessed-contrib": "^1.0.11",
     "child_process": "^1.0.2",
     "fs": "0.0.1-security"
   }
